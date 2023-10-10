@@ -25,3 +25,4 @@ app.autodiscover_tasks()
 
 # Enable broker connection retry on startup (optional)
 app.conf.broker_connection_retry_on_startup = True
+
